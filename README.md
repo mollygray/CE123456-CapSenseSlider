@@ -1,2 +1,3 @@
-# CapSenseViaGithubDesktop
-Commit changes from desktop client rather than web UI, see if that works.
+# CE123456-{SpC6-CapSenseSlider
+
+TBD
