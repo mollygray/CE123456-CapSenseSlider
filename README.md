@@ -1,3 +1,3 @@
-# CE123456-{SpC6-CapSenseSlider
+# CE123456-PSoC6-CapSenseSlider
 
 TBD
