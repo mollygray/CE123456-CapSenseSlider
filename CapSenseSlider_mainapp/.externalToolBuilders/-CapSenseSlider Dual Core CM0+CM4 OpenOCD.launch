@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.debug.core.groups.GroupLaunchConfigurationType">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/CapSenseSlider_mainapp"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="4"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.debug.core.launchGroup.0.action" value="NONE"/>
+<booleanAttribute key="org.eclipse.debug.core.launchGroup.0.adoptIfRunning" value="false"/>
+<booleanAttribute key="org.eclipse.debug.core.launchGroup.0.enabled" value="true"/>
+<stringAttribute key="org.eclipse.debug.core.launchGroup.0.mode" value="inherit"/>
+<stringAttribute key="org.eclipse.debug.core.launchGroup.0.name" value="CapSenseSlider Program+Debug CM0 OpenOCD"/>
+<stringAttribute key="org.eclipse.debug.core.launchGroup.1.action" value="NONE"/>
+<booleanAttribute key="org.eclipse.debug.core.launchGroup.1.adoptIfRunning" value="false"/>
+<booleanAttribute key="org.eclipse.debug.core.launchGroup.1.enabled" value="true"/>
+<stringAttribute key="org.eclipse.debug.core.launchGroup.1.mode" value="inherit"/>
+<stringAttribute key="org.eclipse.debug.core.launchGroup.1.name" value="-CapSenseSlider Attach CM4 OpenOCD"/>
+</launchConfiguration>

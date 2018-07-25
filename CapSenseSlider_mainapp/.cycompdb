@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component_data>
+  <File wkspFile="prj_CM4\main.c" installFile="prj_CM4\main.c" checksum="80618084FEA845C1A073D6A6D1400070ED31108B"/>
+  <File wkspFile="psoc-1.0\components\Cypress.PDL\devices\psoc6\startup\gcc\startup_psoc6_01_cm4.S" installFile="psoc-1.0\components\Cypress.PDL\devices\psoc6\startup\gcc\startup_psoc6_01_cm4.S" checksum="5DAC7C4A0FF753864FEB071670AB0282A1A9940E"/>
+  <File wkspFile="prj_CM4\cy_capsense_config.h" installFile="prj_CM4\cy_capsense_config.h" checksum="CA5816C410A3F379640F6C67796A88B56FDD083E"/>
+  <File wkspFile="psoc-1.0\components\Cypress.PDL\devices\psoc6\startup\system_psoc6_cm4.c" installFile="psoc-1.0\components\Cypress.PDL\devices\psoc6\startup\system_psoc6_cm4.c" checksum="08316C3FB7D6C7B64D13A64A25F0F6EA823E156C"/>
+  <Include dir="C:\Users\jett\ModusToolbox_1.0\libraries\psoc-1.0\components\Cypress.Middleware\capsense"/>
+  <Library dir="C:\Users\jett\ModusToolbox_1.0\libraries\psoc-1.0\components\Cypress.Middleware\capsense\lib\cy_capsense_gcc.a"/>
+  <Library dir="C:\Users\jett\ModusToolbox_1.0\libraries\psoc-1.0\components\Cypress.Middleware\capsense\lib\cy_gesture_gcc.a"/>
+</component_data>
